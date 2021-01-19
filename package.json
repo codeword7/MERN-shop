@@ -1,0 +1,22 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "MERN shop with bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeword7/MERN-shop.git"
+  },
+  "author": "Neeraj Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeword7/MERN-shop/issues"
+  },
+  "homepage": "https://github.com/codeword7/MERN-shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
